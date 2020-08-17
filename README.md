@@ -1,4 +1,4 @@
-# Combinatorics_Problem
+# Combinatorics-Problem
 A small script used to investigate a combinatorics problem. 
 </br>
 </br>
