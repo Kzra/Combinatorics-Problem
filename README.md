@@ -8,7 +8,7 @@ In music theory all time signatures are described as simple, complex or irregula
 **4 = 2\*2, 5 = 2 + 3, 6 = 2\*3, 7 = 2\*2 + 3, etc.**
 </br>
 </br>
-This made me wonder about what numbers it is possible to make up out of higher consecutive pairs of integers. For example, with 3 & 4, it is not possible to make the number 5 but it is all possible to make all other integers > 5. With 5 & 6, it is not possible to make 7, 8 , 9, 13, 14, 17 but it is possible to make all integers >17. 
+This made me wonder about what numbers it is possible to make up out of higher consecutive pairs of integers. For example, with 3 & 4, it is not possible to make the number 5 but it is all possible to make all other integers > 5. With 5 & 6, it is not possible to make 7, 8 , 9, 13, 14, 19 but it is possible to make all integers >19. 
 </br>
 </br>
 In general given **n,n+1** I’d like to know **a)** whether it is possible to solve analytically which integers > n+1 it is not possible to create, **b)** what the relationship is between n and the highest integer it is not possible to make (i.e. the integer above which it is possible to make all other integers) and **c)** when considering n up to infinity what the relationship is between increasing n and the number of integers it is not possible to make. 
